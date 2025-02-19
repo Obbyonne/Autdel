@@ -3,7 +3,7 @@
 pkg install git
 ```
 ```
-git clone https://github.com/bangpateng/push-dc
+git clone https://github.com/Obbyonne/Autdel.git
 ```
 ```
 pkg install python
@@ -18,7 +18,13 @@ pkg install openssl
 pip install requests colorama
 ```
 ```
-cd push-dc
+cd Autdel
+```
+```
+nano pesan.txt
+```
+```
+nano token.txt
 ```
 ```
 python main.py
